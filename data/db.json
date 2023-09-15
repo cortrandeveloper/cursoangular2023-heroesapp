@@ -16,22 +16,6 @@
       "characters": "Bruce Wayne"
     },
     {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
-    },
-    {
-      "id": "dc-flash",
-      "superhero": "Flash",
-      "publisher": "DC Comics",
-      "alter_ego": "Jay Garrick",
-      "first_appearance": "Flash Comics #1",
-      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
-    },
-    {
       "id": "dc-green",
       "superhero": "Green Lantern",
       "publisher": "DC Comics",
@@ -112,14 +96,6 @@
       "characters": "Tony Stark"
     },
     {
-      "id": "marvel-thor",
-      "superhero": "Thor",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Thor Odinson",
-      "first_appearance": "Journey into Myster #83",
-      "characters": "Thor Odinson"
-    },
-    {
       "id": "marvel-hulk",
       "superhero": "Hulk",
       "publisher": "Marvel Comics",
@@ -166,6 +142,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "rM3ICQF",
+      "superhero": "Luffy",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Luffy D Monkey",
+      "first_appearance": "TuCola",
+      "characters": "Luffy, El Marchas Locas, El Mamalon",
+      "alt_img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77a32202-f584-4fdb-918d-11a971fee6f4/dfyrec7-86e33197-9f9f-4fdf-8cfb-db7cef33e038.jpg/v1/fill/w_903,h_885,q_70,strp/gear_5_luffy_joy_boy_fanart__by_nekorin22_dfyrec7-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTgwIiwicGF0aCI6IlwvZlwvNzdhMzIyMDItZjU4NC00ZmRiLTkxOGQtMTFhOTcxZmVlNmY0XC9kZnlyZWM3LTg2ZTMzMTk3LTlmOWYtNGZkZi04Y2ZiLWRiN2NlZjMzZTAzOC5qcGciLCJ3aWR0aCI6Ijw9MTAwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.iB5KwTMVDjAWIdiw-76zHJL3onlBHTmBlIV9GoScINc"
     }
   ]
 }
